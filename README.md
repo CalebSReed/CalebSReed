@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalebSReed
-- 👀 I’m interested in learning programming
+- 👀 I’m interested in learning front end development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
