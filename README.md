@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CalebSReed
-- 👀 I’m interested in learning front end development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello. My name is Caleb Reed.
 
-<!---
-CalebSReed/CalebSReed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love coding in unity and would love to release a game at some point.
+It would be cool to make game dev my fulltime job indie or not.
+beginner/intermediate c# programmer. 
