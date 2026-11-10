@@ -1,5 +1,3 @@
-Hello. My name is Caleb Reed.
+Current Unity hobbyist. I've been interested in game dev since I was very young, and started out making small games on Tynker during middle school.
 
-I love coding in unity and would love to release a game at some point.
-It would be cool to make game dev my fulltime job indie or not.
-beginner/intermediate c# programmer. 
+Looking forward to fully releasing a game on steam one day
